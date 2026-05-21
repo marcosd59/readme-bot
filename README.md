@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Truth is like most opinions - best unexpressed."*
+> *"Always be a first rate version of yourself and not a second rate version of someone else."*
 >
-> — **Kenneth Branagh**
+> — **Judy Garland**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-21 19:06 UTC**
+Last update: **2026-05-21 19:10 UTC**
 <!-- UPDATED:END -->
