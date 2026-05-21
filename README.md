@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Truth is like most opinions - best unexpressed."*
+>
+> — **Kenneth Branagh**
 <!-- QUOTE:END -->
 
 ---
@@ -29,11 +31,11 @@ Auto-updated README con stats reales y quote diaria.
 - 👥 **Followers:** 10
 - ⭐ **Stars totales:** 7
 - 🍴 **Forks totales:** 1
-- 💻 **Top lenguajes:** `JavaScript` (16) · `CSS` (3) · `TypeScript` (3) · `Python` (2) · `C++` (2)
+- 💻 **Top lenguajes:** `JavaScript` (17) · `CSS` (3) · `TypeScript` (3) · `Python` (2) · `C++` (2)
 <!-- STATS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-21 14:45 UTC**
+Last update: **2026-05-21 19:06 UTC**
 <!-- UPDATED:END -->
