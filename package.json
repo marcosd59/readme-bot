@@ -1,0 +1,13 @@
+{
+  "name": "readme-bot",
+  "version": "1.0.0",
+  "description": "Auto-update README daily with GitHub stats and daily quote.",
+  "main": "scripts/update-readme.js",
+  "scripts": {
+    "update": "node scripts/update-readme.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

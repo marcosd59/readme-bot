@@ -1,0 +1,72 @@
+name: Daily README Update
+
+on:
+  schedule:
+    # Varias horas posibles. Script decide aleatorio cuántas correr.
+    - cron: '17 9 * * *'
+    - cron: '43 13 * * *'
+    - cron: '8 17 * * *'
+    - cron: '29 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps
+        run: npm install
+
+      - name: Random commit loop
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MANUAL_RUN: ${{ github.event_name == 'workflow_dispatch' }}
+        run: |
+          git config user.name "marcosd59"
+          git config user.email "damian.marcospool@gmail.com"
+
+          # Decide cuántos commits hoy: random 1-4. Workflow_dispatch siempre 1.
+          if [ "$MANUAL_RUN" = "true" ]; then
+            COMMITS=1
+          else
+            # 30% skip total (día sin actividad realista)
+            ROLL=$((RANDOM % 100))
+            if [ $ROLL -lt 30 ]; then
+              echo "Skipping today (roll=$ROLL)."
+              exit 0
+            fi
+            COMMITS=$(( (RANDOM % 4) + 1 ))
+          fi
+
+          echo "Will make $COMMITS commit(s) this run."
+
+          for i in $(seq 1 $COMMITS); do
+            echo "--- Commit $i/$COMMITS ---"
+            node scripts/update-readme.js
+            git add README.md
+            if git diff --staged --quiet; then
+              echo "No changes, forcing variation."
+              node scripts/touch-counter.js
+              git add README.md counter.json
+            fi
+            git commit -m "chore: readme refresh $(date -u +'%Y-%m-%d %H:%M:%S')"
+
+            if [ $i -lt $COMMITS ]; then
+              SLEEP=$(( (RANDOM % 180) + 60 ))  # 60-240s
+              echo "Sleeping $SLEEP s..."
+              sleep $SLEEP
+            fi
+          done
+
+          git push
