@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Be fascinated instead of frustrated."*
+> *"Friendship takes time and energy if it's going to work."*
 >
-> — **Jim Rohn**
+> — **Betty White**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-21 19:13 UTC**
+Last update: **2026-05-21 22:46 UTC**
 <!-- UPDATED:END -->
