@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Friendship takes time and energy if it's going to work."*
+> *"There is no greater agony than bearing an untold story inside you."*
 >
-> — **Betty White**
+> — **Maya Angelou**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-21 22:46 UTC**
+Last update: **2026-05-22 12:01 UTC**
 <!-- UPDATED:END -->
