@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"There is no greater agony than bearing an untold story inside you."*
+> *"The road to success is always under construction."*
 >
-> — **Maya Angelou**
+> — **Steve Harvey**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-22 12:01 UTC**
+Last update: **2026-05-22 12:04 UTC**
 <!-- UPDATED:END -->
