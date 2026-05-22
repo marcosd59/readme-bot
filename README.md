@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Vision is the art of seeing things invisible."*
+> *"Treat everyone with politeness and kindness, not because they are nice, but because you are."*
 >
-> — **Jonathan Swift**
+> — **Roy T. Bennett**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-22 18:59 UTC**
+Last update: **2026-05-22 22:31 UTC**
 <!-- UPDATED:END -->
