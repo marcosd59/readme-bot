@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Vision is the art of seeing things invisible."*
+>
+> — **Jonathan Swift**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-22 16:07 UTC**
+Last update: **2026-05-22 18:59 UTC**
 <!-- UPDATED:END -->
