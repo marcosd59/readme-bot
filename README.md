@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Empty your mind, be formless, shapeless, like water."*
+> *"Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love."*
 >
-> — **Bruce Lee**
+> — **Morihei Ueshiba**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-22 12:07 UTC**
+Last update: **2026-05-22 12:10 UTC**
 <!-- UPDATED:END -->
