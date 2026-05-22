@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The road to success is always under construction."*
+> *"Empty your mind, be formless, shapeless, like water."*
 >
-> — **Steve Harvey**
+> — **Bruce Lee**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-22 12:04 UTC**
+Last update: **2026-05-22 12:07 UTC**
 <!-- UPDATED:END -->
