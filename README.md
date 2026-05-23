@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"People are doing the best that they can from their own level of consciousness."*
+> *"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "*
 >
-> — **Deepak Chopra**
+> — **W. Clement Stone**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-23 22:11 UTC**
+Last update: **2026-05-23 22:15 UTC**
 <!-- UPDATED:END -->
