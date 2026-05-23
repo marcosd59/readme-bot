@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "*
+> *"Presents are made for the pleasure of who gives them, not the merits of who receives them."*
 >
-> — **W. Clement Stone**
+> — **Carlos Ruiz Zafon**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-23 22:15 UTC**
+Last update: **2026-05-23 22:17 UTC**
 <!-- UPDATED:END -->
