@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."*
+> *"Life begins where fear ends."*
 >
-> — **Albert Einstein**
+> — **Osho**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-23 14:49 UTC**
+Last update: **2026-05-23 18:05 UTC**
 <!-- UPDATED:END -->
