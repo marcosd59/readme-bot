@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Treat everyone with politeness and kindness, not because they are nice, but because you are."*
+> *"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."*
 >
-> — **Roy T. Bennett**
+> — **Albert Einstein**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-22 22:31 UTC**
+Last update: **2026-05-23 14:49 UTC**
 <!-- UPDATED:END -->
