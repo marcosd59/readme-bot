@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"If your mind is empty, it is always ready for anything, it is open to everything."*
+> *"People are doing the best that they can from their own level of consciousness."*
 >
-> — **Shunryu Suzuki**
+> — **Deepak Chopra**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-23 18:08 UTC**
+Last update: **2026-05-23 22:11 UTC**
 <!-- UPDATED:END -->
