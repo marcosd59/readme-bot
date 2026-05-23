@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Presents are made for the pleasure of who gives them, not the merits of who receives them."*
->
-> — **Carlos Ruiz Zafon**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-23 22:17 UTC**
+Last update: **2026-05-23 22:20 UTC**
 <!-- UPDATED:END -->
