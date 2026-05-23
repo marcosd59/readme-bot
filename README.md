@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Life begins where fear ends."*
+> *"If your mind is empty, it is always ready for anything, it is open to everything."*
 >
-> — **Osho**
+> — **Shunryu Suzuki**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-23 18:05 UTC**
+Last update: **2026-05-23 18:08 UTC**
 <!-- UPDATED:END -->
