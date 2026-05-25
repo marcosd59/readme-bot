@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Presents are made for the pleasure of who gives them, not the merits of who receives them."*
+> *"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."*
 >
-> — **Carlos Ruiz Zafon**
+> — **Dan Millman**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-24 18:06 UTC**
+Last update: **2026-05-25 12:45 UTC**
 <!-- UPDATED:END -->
