@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."*
+> *"Learn only how to avoid seeking for and attaching yourselves to anything."*
 >
-> — **Dan Millman**
+> — **Huang Po**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-25 22:35 UTC**
+Last update: **2026-05-26 17:01 UTC**
 <!-- UPDATED:END -->
