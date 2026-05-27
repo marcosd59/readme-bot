@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Learn only how to avoid seeking for and attaching yourselves to anything."*
+> *"Being wrong opens us up to the possibility of change."*
 >
-> — **Huang Po**
+> — **Mark Manson**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-26 17:06 UTC**
+Last update: **2026-05-27 12:33 UTC**
 <!-- UPDATED:END -->
