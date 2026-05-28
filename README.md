@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Being wrong opens us up to the possibility of change."*
+> *"You just can't beat the person who never gives up."*
 >
-> — **Mark Manson**
+> — **Babe Ruth**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-27 22:57 UTC**
+Last update: **2026-05-28 12:46 UTC**
 <!-- UPDATED:END -->
