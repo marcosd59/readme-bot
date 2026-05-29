@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"You just can't beat the person who never gives up."*
+> *"Do something to move yourself toward your major goal every day."*
 >
-> — **Babe Ruth**
+> — **Brian Tracy**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-28 19:41 UTC**
+Last update: **2026-05-29 12:28 UTC**
 <!-- UPDATED:END -->
