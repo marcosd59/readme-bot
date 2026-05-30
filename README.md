@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Do something to move yourself toward your major goal every day."*
+> *"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."*
 >
-> — **Brian Tracy**
+> — **John Eliot**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-29 19:41 UTC**
+Last update: **2026-05-30 10:53 UTC**
 <!-- UPDATED:END -->
