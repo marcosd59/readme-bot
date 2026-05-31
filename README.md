@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."*
+> *"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."*
 >
-> — **John Eliot**
+> — **Spencer Johnson**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-30 22:29 UTC**
+Last update: **2026-05-31 11:08 UTC**
 <!-- UPDATED:END -->
