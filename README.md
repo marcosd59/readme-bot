@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."*
+> *"Continuous effort - not strength or intelligence - is the key to unlocking our potential."*
 >
-> — **Spencer Johnson**
+> — **Winston Churchill**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-05-31 18:16 UTC**
+Last update: **2026-06-01 15:34 UTC**
 <!-- UPDATED:END -->
