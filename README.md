@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"The only thing worse than being blind is having sight but no vision."*
+>
+> — **Helen Keller**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-02 20:12 UTC**
+Last update: **2026-06-02 20:16 UTC**
 <!-- UPDATED:END -->
