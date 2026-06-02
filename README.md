@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Continuous effort - not strength or intelligence - is the key to unlocking our potential."*
+> *"The only thing worse than being blind is having sight but no vision."*
 >
-> — **Winston Churchill**
+> — **Helen Keller**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-01 23:12 UTC**
+Last update: **2026-06-02 12:52 UTC**
 <!-- UPDATED:END -->
