@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The only thing worse than being blind is having sight but no vision."*
+> *"You are always your own best guru, your own best teacher, the answers are always inside you."*
 >
-> — **Helen Keller**
+> — **Sathya Sai Baba**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-02 23:22 UTC**
+Last update: **2026-06-03 14:08 UTC**
 <!-- UPDATED:END -->
