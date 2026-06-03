@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"You are always your own best guru, your own best teacher, the answers are always inside you."*
+>
+> — **Sathya Sai Baba**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-03 18:11 UTC**
+Last update: **2026-06-03 18:13 UTC**
 <!-- UPDATED:END -->
