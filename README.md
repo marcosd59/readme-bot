@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Expect the best of yourself, and then do what is necessary to make it a reality."*
+>
+> — **Ralph Marston**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-04 16:36 UTC**
+Last update: **2026-06-04 16:39 UTC**
 <!-- UPDATED:END -->
