@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"You are always your own best guru, your own best teacher, the answers are always inside you."*
+> *"Expect the best of yourself, and then do what is necessary to make it a reality."*
 >
-> — **Sathya Sai Baba**
+> — **Ralph Marston**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-03 23:23 UTC**
+Last update: **2026-06-04 12:21 UTC**
 <!-- UPDATED:END -->
