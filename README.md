@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"One of the most difficult things is not to change society - but to change yourself."*
->
-> — **Nelson Mandela**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-05 12:23 UTC**
+Last update: **2026-06-05 12:26 UTC**
 <!-- UPDATED:END -->
