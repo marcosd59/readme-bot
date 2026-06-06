@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"One of the most difficult things is not to change society - but to change yourself."*
+> *"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."*
 >
-> — **Nelson Mandela**
+> — **Confucius**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-05 22:42 UTC**
+Last update: **2026-06-06 15:01 UTC**
 <!-- UPDATED:END -->
