@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."*
+> *"A lot of people have gone further than they thought they could because someone else thought they could."*
 >
-> — **Confucius**
+> — **Zig Ziglar**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-06 22:37 UTC**
+Last update: **2026-06-07 15:13 UTC**
 <!-- UPDATED:END -->
