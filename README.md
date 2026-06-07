@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"A lot of people have gone further than they thought they could because someone else thought they could."*
+>
+> — **Zig Ziglar**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-07 15:19 UTC**
+Last update: **2026-06-07 18:12 UTC**
 <!-- UPDATED:END -->
