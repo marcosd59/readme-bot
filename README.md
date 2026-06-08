@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"A lot of people have gone further than they thought they could because someone else thought they could."*
+> *"I like the dreams of the future better than the history of the past."*
 >
-> — **Zig Ziglar**
+> — **Thomas Jefferson**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-07 22:33 UTC**
+Last update: **2026-06-08 16:58 UTC**
 <!-- UPDATED:END -->
