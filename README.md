@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"I like the dreams of the future better than the history of the past."*
+> *"Given the choice between the experience of pain and nothing, I would choose pain."*
 >
-> — **Thomas Jefferson**
+> — **William Faulkner**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-08 22:53 UTC**
+Last update: **2026-06-09 16:21 UTC**
 <!-- UPDATED:END -->
