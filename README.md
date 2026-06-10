@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Given the choice between the experience of pain and nothing, I would choose pain."*
->
-> — **William Faulkner**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-09 23:00 UTC**
+Last update: **2026-06-10 12:38 UTC**
 <!-- UPDATED:END -->
