@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Short cuts make long delays."*
+>
+> — **J.R.R. Tolkien**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-10 12:46 UTC**
+Last update: **2026-06-10 16:49 UTC**
 <!-- UPDATED:END -->
