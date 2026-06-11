@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Short cuts make long delays."*
+> *"Every man desires to live long, but no man wishes to be old."*
 >
-> — **J.R.R. Tolkien**
+> — **Jonathan Swift**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-10 19:48 UTC**
+Last update: **2026-06-11 12:55 UTC**
 <!-- UPDATED:END -->
