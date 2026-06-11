@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Every man desires to live long, but no man wishes to be old."*
->
-> — **Jonathan Swift**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-11 12:56 UTC**
+Last update: **2026-06-11 17:27 UTC**
 <!-- UPDATED:END -->
