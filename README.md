@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"The future depends on what you do today."*
+>
+> — **Mahatma Gandhi**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-11 23:03 UTC**
+Last update: **2026-06-12 19:18 UTC**
 <!-- UPDATED:END -->
