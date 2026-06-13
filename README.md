@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The future depends on what you do today."*
+> *"You can't build a reputation on what you are going to do."*
 >
-> — **Mahatma Gandhi**
+> — **Henry Ford**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-12 22:52 UTC**
+Last update: **2026-06-13 11:25 UTC**
 <!-- UPDATED:END -->
