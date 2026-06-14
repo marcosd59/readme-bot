@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"You can't build a reputation on what you are going to do."*
+> *"Anger begins with folly, and ends with repentance."*
 >
-> — **Henry Ford**
+> — **Beverly Sills**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-13 22:34 UTC**
+Last update: **2026-06-14 11:37 UTC**
 <!-- UPDATED:END -->
