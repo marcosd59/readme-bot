@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Anger begins with folly, and ends with repentance."*
+> *"Your dream has to be bigger than your fear."*
 >
-> — **Beverly Sills**
+> — **Steve Harvey**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-14 22:40 UTC**
+Last update: **2026-06-15 18:16 UTC**
 <!-- UPDATED:END -->
