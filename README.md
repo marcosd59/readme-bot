@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Your dream has to be bigger than your fear."*
+> *"The road to success is always under construction.."*
 >
-> — **Steve Harvey**
+> — **Lily Tomlin**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-15 23:17 UTC**
+Last update: **2026-06-16 14:26 UTC**
 <!-- UPDATED:END -->
