@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The road to success is always under construction.."*
+> *"Never whine, never complain, never try to justify yourself."*
 >
-> — **Lily Tomlin**
+> — **Robert Greene**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-16 20:22 UTC**
+Last update: **2026-06-17 12:57 UTC**
 <!-- UPDATED:END -->
