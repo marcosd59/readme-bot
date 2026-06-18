@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Never whine, never complain, never try to justify yourself."*
+> *"But better die than live mechanically a life that is a repetition of repetitions."*
 >
-> — **Robert Greene**
+> — **D. H. Lawrence**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-17 16:51 UTC**
+Last update: **2026-06-18 12:32 UTC**
 <!-- UPDATED:END -->
