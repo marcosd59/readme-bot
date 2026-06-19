@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"But better die than live mechanically a life that is a repetition of repetitions."*
+> *"All we have to decide is what to do with the time that is given to us."*
 >
-> — **D. H. Lawrence**
+> — **J.R.R. Tolkien**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-18 23:15 UTC**
+Last update: **2026-06-19 12:54 UTC**
 <!-- UPDATED:END -->
