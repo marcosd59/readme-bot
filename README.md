@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"All we have to decide is what to do with the time that is given to us."*
+> *"Let us rather run the risk of wearing out than rusting out."*
 >
-> — **J.R.R. Tolkien**
+> — **Theodore Roosevelt**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-19 22:28 UTC**
+Last update: **2026-06-20 11:26 UTC**
 <!-- UPDATED:END -->
