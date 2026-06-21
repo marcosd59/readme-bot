@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Let us rather run the risk of wearing out than rusting out."*
+> *"Only when you can be extremely pliable and soft can you be extremely hard and strong."*
 >
-> — **Theodore Roosevelt**
+> — **Zen Proverb**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-20 18:26 UTC**
+Last update: **2026-06-21 11:57 UTC**
 <!-- UPDATED:END -->
