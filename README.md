@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Argue for your limitations and sure enough, they're yours."*
+>
+> — **Richard Bach**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-22 15:01 UTC**
+Last update: **2026-06-22 15:04 UTC**
 <!-- UPDATED:END -->
