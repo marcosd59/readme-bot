@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Only when you can be extremely pliable and soft can you be extremely hard and strong."*
->
-> — **Zen Proverb**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-21 18:34 UTC**
+Last update: **2026-06-22 15:01 UTC**
 <!-- UPDATED:END -->
