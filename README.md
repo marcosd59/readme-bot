@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"You may be one person in this world, but to one person you may mean the world."*
+> *"You're on earth. There's no cure for that."*
 >
-> — **Unknown**
+> — **Samuel Beckett**
 <!-- QUOTE:END -->
 
 ---
@@ -27,15 +27,15 @@ Auto-updated README con stats reales y quote diaria.
 ## 📈 Stats live
 
 <!-- STATS:START -->
-- 📦 **Repos públicos:** 32
+- 📦 **Repos públicos:** 21
 - 👥 **Followers:** 10
-- ⭐ **Stars totales:** 7
+- ⭐ **Stars totales:** 6
 - 🍴 **Forks totales:** 1
-- 💻 **Top lenguajes:** `JavaScript` (17) · `CSS` (3) · `TypeScript` (3) · `Python` (2) · `C++` (2)
+- 💻 **Top lenguajes:** `JavaScript` (10) · `TypeScript` (2) · `Python` (2) · `C++` (2) · `Blade` (1)
 <!-- STATS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-23 16:13 UTC**
+Last update: **2026-06-24 12:02 UTC**
 <!-- UPDATED:END -->
