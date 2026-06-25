@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"You're on earth. There's no cure for that."*
->
-> — **Samuel Beckett**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-24 22:51 UTC**
+Last update: **2026-06-25 11:57 UTC**
 <!-- UPDATED:END -->
