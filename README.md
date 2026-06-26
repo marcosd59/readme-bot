@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"It is dangerous to be right in matters on which the established authorities are wrong."*
+>
+> — **Voltaire**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-25 22:53 UTC**
+Last update: **2026-06-26 11:52 UTC**
 <!-- UPDATED:END -->
