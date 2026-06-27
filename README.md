@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"It is dangerous to be right in matters on which the established authorities are wrong."*
+> *"Do Something. If it works, do more of it. If it doesn't, do something else."*
 >
-> — **Voltaire**
+> — **Franklin D. Roosevelt**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-26 22:46 UTC**
+Last update: **2026-06-27 18:13 UTC**
 <!-- UPDATED:END -->
