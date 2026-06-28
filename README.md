@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Do Something. If it works, do more of it. If it doesn't, do something else."*
+> *"Truth is the offspring of silence and meditation."*
 >
-> — **Franklin D. Roosevelt**
+> — **Isaac Newton**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-27 22:36 UTC**
+Last update: **2026-06-28 11:16 UTC**
 <!-- UPDATED:END -->
