@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Truth is the offspring of silence and meditation."*
+> *"All leaders are readers."*
 >
-> — **Isaac Newton**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-28 22:41 UTC**
+Last update: **2026-06-29 13:15 UTC**
 <!-- UPDATED:END -->
