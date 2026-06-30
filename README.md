@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"All leaders are readers."*
+> *"To create more positive results in your life, replace 'if only' with 'next time'."*
 >
-> — **Jim Rohn**
+> — **Celestine Chua**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-29 19:13 UTC**
+Last update: **2026-06-30 11:52 UTC**
 <!-- UPDATED:END -->
