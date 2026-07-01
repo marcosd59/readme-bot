@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"To create more positive results in your life, replace 'if only' with 'next time'."*
+> *"People who say it cannot be done should not interrupt those who are doing it."*
 >
-> — **Celestine Chua**
+> — **George Bernard Shaw**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-06-30 22:55 UTC**
+Last update: **2026-07-01 12:17 UTC**
 <!-- UPDATED:END -->
