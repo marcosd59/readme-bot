@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"People who say it cannot be done should not interrupt those who are doing it."*
+> *"No one ever said life was fair. Just Eventful."*
 >
-> — **George Bernard Shaw**
+> — **Carol Burnett**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-01 22:45 UTC**
+Last update: **2026-07-02 11:43 UTC**
 <!-- UPDATED:END -->
