@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories."*
+> *"Patience is bitter, but its fruit is sweet."*
 >
-> — **Ray Bradbury**
+> — **Aristotle**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-03 22:33 UTC**
+Last update: **2026-07-04 11:01 UTC**
 <!-- UPDATED:END -->
