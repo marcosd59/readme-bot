@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."*
+> *"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."*
 >
-> — **Betty White**
+> — **Sun Tzu**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-06 22:47 UTC**
+Last update: **2026-07-07 19:08 UTC**
 <!-- UPDATED:END -->
