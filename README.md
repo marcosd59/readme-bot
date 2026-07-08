@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."*
+> *"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."*
 >
-> — **Sun Tzu**
+> — **Steve Maraboli**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-07 22:33 UTC**
+Last update: **2026-07-08 11:18 UTC**
 <!-- UPDATED:END -->
