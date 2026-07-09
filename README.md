@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."*
+> *"When you've got nothing, you've got nothing to lose."*
 >
-> — **Steve Maraboli**
+> — **Bob Dylan**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-08 18:29 UTC**
+Last update: **2026-07-09 18:55 UTC**
 <!-- UPDATED:END -->
