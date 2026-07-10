@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."*
->
-> — **Kamal Ravikant**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-10 12:15 UTC**
+Last update: **2026-07-10 16:06 UTC**
 <!-- UPDATED:END -->
