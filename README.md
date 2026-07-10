@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"When you've got nothing, you've got nothing to lose."*
+> *"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."*
 >
-> — **Bob Dylan**
+> — **Kamal Ravikant**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-09 18:55 UTC**
+Last update: **2026-07-10 12:08 UTC**
 <!-- UPDATED:END -->
