@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."*
+> *"Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories."*
 >
-> — **Kamal Ravikant**
+> — **Ray Bradbury**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-10 22:32 UTC**
+Last update: **2026-07-11 10:34 UTC**
 <!-- UPDATED:END -->
