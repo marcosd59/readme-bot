@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Success is a consequence and must not be a goal."*
+>
+> — **Gustave Flaubert**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-12 22:11 UTC**
+Last update: **2026-07-12 22:15 UTC**
 <!-- UPDATED:END -->
