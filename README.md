@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories."*
+> *"Success is a consequence and must not be a goal."*
 >
-> — **Ray Bradbury**
+> — **Gustave Flaubert**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-11 22:15 UTC**
+Last update: **2026-07-12 10:44 UTC**
 <!-- UPDATED:END -->
