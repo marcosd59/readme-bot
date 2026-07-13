@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Success is a consequence and must not be a goal."*
+> *"Words, once they are printed, have a life of their own."*
 >
-> — **Gustave Flaubert**
+> — **Carol Burnett**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-12 22:15 UTC**
+Last update: **2026-07-13 12:17 UTC**
 <!-- UPDATED:END -->
