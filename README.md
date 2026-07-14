@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Pain doesn't last. And when it's gone, we have something to show for it. Growth."*
+>
+> — **Kamal Ravikant**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-14 11:00 UTC**
+Last update: **2026-07-14 11:02 UTC**
 <!-- UPDATED:END -->
