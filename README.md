@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Words, once they are printed, have a life of their own."*
+> *"Pain doesn't last. And when it's gone, we have something to show for it. Growth."*
 >
-> — **Carol Burnett**
+> — **Kamal Ravikant**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-13 22:25 UTC**
+Last update: **2026-07-14 10:56 UTC**
 <!-- UPDATED:END -->
