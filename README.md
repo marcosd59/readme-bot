@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"There's no next time. It's now or never."*
+>
+> — **Celestine Chua**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-15 11:02 UTC**
+Last update: **2026-07-15 11:04 UTC**
 <!-- UPDATED:END -->
