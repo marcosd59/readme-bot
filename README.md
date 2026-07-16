@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"There's no next time. It's now or never."*
+> *"Knowing others is wisdom, knowing yourself is enlightenment."*
 >
-> — **Celestine Chua**
+> — **Lao Tzu**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-15 18:18 UTC**
+Last update: **2026-07-16 11:13 UTC**
 <!-- UPDATED:END -->
