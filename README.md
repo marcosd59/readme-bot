@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Knowing others is wisdom, knowing yourself is enlightenment."*
->
-> — **Lao Tzu**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-16 18:18 UTC**
+Last update: **2026-07-16 18:22 UTC**
 <!-- UPDATED:END -->
