@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Knowing others is wisdom, knowing yourself is enlightenment."*
+> *"Death and life have their determined appointments; riches and honors depend upon heaven."*
 >
-> — **Lao Tzu**
+> — **Confucius**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-16 22:32 UTC**
+Last update: **2026-07-17 10:58 UTC**
 <!-- UPDATED:END -->
