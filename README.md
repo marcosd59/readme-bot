@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"*
+>
+> — **Robin Sharma**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-18 14:38 UTC**
+Last update: **2026-07-18 14:40 UTC**
 <!-- UPDATED:END -->
