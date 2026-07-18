@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Death and life have their determined appointments; riches and honors depend upon heaven."*
+> *"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"*
 >
-> — **Confucius**
+> — **Robin Sharma**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-17 15:05 UTC**
+Last update: **2026-07-18 10:41 UTC**
 <!-- UPDATED:END -->
