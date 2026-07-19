@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"*
+> *"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."*
 >
-> — **Robin Sharma**
+> — **Albus Dumbledore**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-18 22:11 UTC**
+Last update: **2026-07-19 10:44 UTC**
 <!-- UPDATED:END -->
