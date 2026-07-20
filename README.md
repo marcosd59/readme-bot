@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."*
+> *"An action committed in anger is an action doomed to failure."*
 >
-> — **Albus Dumbledore**
+> — **Genghis Khan**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-19 22:17 UTC**
+Last update: **2026-07-20 15:32 UTC**
 <!-- UPDATED:END -->
