@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"An action committed in anger is an action doomed to failure."*
+> *"Do Something. If it works, do more of it. If it doesn't, do something else."*
 >
-> — **Genghis Khan**
+> — **Franklin D. Roosevelt**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-20 15:37 UTC**
+Last update: **2026-07-21 22:23 UTC**
 <!-- UPDATED:END -->
