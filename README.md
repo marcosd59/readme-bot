@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Do Something. If it works, do more of it. If it doesn't, do something else."*
+> *"Nothing makes a man broad-minded like adversity."*
 >
-> — **Franklin D. Roosevelt**
+> — **Will Rogers**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-21 22:27 UTC**
+Last update: **2026-07-22 11:21 UTC**
 <!-- UPDATED:END -->
