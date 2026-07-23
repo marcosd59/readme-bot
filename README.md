@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Nothing makes a man broad-minded like adversity."*
+> *"You have the potential for greatness."*
 >
-> — **Will Rogers**
+> — **Steve Harvey**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-22 22:38 UTC**
+Last update: **2026-07-23 11:20 UTC**
 <!-- UPDATED:END -->
