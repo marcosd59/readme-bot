@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"You have the potential for greatness."*
+> *"Change is hard at first, messy in the middle and gorgeous at the end."*
 >
-> — **Steve Harvey**
+> — **Robin Sharma**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-23 22:30 UTC**
+Last update: **2026-07-24 11:13 UTC**
 <!-- UPDATED:END -->
