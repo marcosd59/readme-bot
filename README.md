@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Change is hard at first, messy in the middle and gorgeous at the end."*
+>
+> — **Robin Sharma**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-24 15:17 UTC**
+Last update: **2026-07-24 18:25 UTC**
 <!-- UPDATED:END -->
