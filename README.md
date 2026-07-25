@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"It is amazing what you can accomplish if you do not care who gets the credit."*
->
-> — **Harry S. Truman**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-25 10:50 UTC**
+Last update: **2026-07-25 10:52 UTC**
 <!-- UPDATED:END -->
