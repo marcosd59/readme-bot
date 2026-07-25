@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Change is hard at first, messy in the middle and gorgeous at the end."*
+> *"It is amazing what you can accomplish if you do not care who gets the credit."*
 >
-> — **Robin Sharma**
+> — **Harry S. Truman**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-24 18:28 UTC**
+Last update: **2026-07-25 10:45 UTC**
 <!-- UPDATED:END -->
