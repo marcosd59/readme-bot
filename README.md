@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"It is amazing what you can accomplish if you do not care who gets the credit."*
+> *"Let us rather run the risk of wearing out than rusting out."*
 >
-> — **Harry S. Truman**
+> — **Theodore Roosevelt**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-25 22:14 UTC**
+Last update: **2026-07-26 10:54 UTC**
 <!-- UPDATED:END -->
