@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Let us rather run the risk of wearing out than rusting out."*
+> *"But better die than live mechanically a life that is a repetition of repetitions."*
 >
-> — **Theodore Roosevelt**
+> — **D. H. Lawrence**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-26 22:25 UTC**
+Last update: **2026-07-27 16:02 UTC**
 <!-- UPDATED:END -->
