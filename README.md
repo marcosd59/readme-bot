@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Be kind, for everyone you meet is fighting a harder battle."*
->
-> — **Plato**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-28 15:59 UTC**
+Last update: **2026-07-28 18:20 UTC**
 <!-- UPDATED:END -->
