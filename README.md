@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"But better die than live mechanically a life that is a repetition of repetitions."*
+> *"Be kind, for everyone you meet is fighting a harder battle."*
 >
-> — **D. H. Lawrence**
+> — **Plato**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-27 22:38 UTC**
+Last update: **2026-07-28 15:53 UTC**
 <!-- UPDATED:END -->
