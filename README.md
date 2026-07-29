@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"If you let your head get too big, it'll break your neck."*
+>
+> — **Elvis Presley**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-29 11:34 UTC**
+Last update: **2026-07-29 15:37 UTC**
 <!-- UPDATED:END -->
