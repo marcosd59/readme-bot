@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"If you let your head get too big, it'll break your neck."*
+> *"It isn't that they can't see the solution. It is that they can't see the problem."*
 >
-> — **Elvis Presley**
+> — **Gilbert Chesterton**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-29 18:13 UTC**
+Last update: **2026-07-30 11:21 UTC**
 <!-- UPDATED:END -->
