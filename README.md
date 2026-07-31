@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"It isn't that they can't see the solution. It is that they can't see the problem."*
+> *"New beginnings are disguised as painful endings."*
 >
-> — **Gilbert Chesterton**
+> — **Lao Tzu**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-30 22:31 UTC**
+Last update: **2026-07-31 15:47 UTC**
 <!-- UPDATED:END -->
