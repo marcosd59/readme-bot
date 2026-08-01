@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"New beginnings are disguised as painful endings."*
+> *"Expect the best of yourself, and then do what is necessary to make it a reality."*
 >
-> — **Lao Tzu**
+> — **Ralph Marston**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-07-31 22:32 UTC**
+Last update: **2026-08-01 14:46 UTC**
 <!-- UPDATED:END -->
