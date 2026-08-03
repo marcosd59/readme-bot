@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."*
+> *"It all depends on what you choose to believe."*
 >
-> — **Joan Rivers**
+> — **Spencer Johnson**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-02 14:57 UTC**
+Last update: **2026-08-03 12:36 UTC**
 <!-- UPDATED:END -->
