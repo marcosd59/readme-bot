@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"It all depends on what you choose to believe."*
+> *"Love never keeps a man from pursuing his destiny."*
 >
-> — **Spencer Johnson**
+> — **Paulo Coelho**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-03 22:34 UTC**
+Last update: **2026-08-04 16:00 UTC**
 <!-- UPDATED:END -->
