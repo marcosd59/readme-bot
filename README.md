@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Love never keeps a man from pursuing his destiny."*
+> *"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."*
 >
-> — **Paulo Coelho**
+> — **Epictetus**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-04 22:32 UTC**
+Last update: **2026-08-05 11:30 UTC**
 <!-- UPDATED:END -->
