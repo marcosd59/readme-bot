@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."*
+> *"Ability is a poor man's wealth."*
 >
-> — **Epictetus**
+> — **John Wooden**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-05 22:33 UTC**
+Last update: **2026-08-07 01:02 UTC**
 <!-- UPDATED:END -->
