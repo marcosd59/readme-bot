@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Ability is a poor man's wealth."*
+> *"The greatest discovery of all time is that a person can change their future by merely changing their attitude."*
 >
-> — **John Wooden**
+> — **Oprah Winfrey**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-07 22:01 UTC**
+Last update: **2026-08-08 14:17 UTC**
 <!-- UPDATED:END -->
