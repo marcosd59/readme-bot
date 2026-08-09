@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The greatest discovery of all time is that a person can change their future by merely changing their attitude."*
+> *"Magic is believing in yourself, if you can do that, you can make anything happen."*
 >
-> — **Oprah Winfrey**
+> — **Johann Wolfgang von Goethe**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-08 14:24 UTC**
+Last update: **2026-08-09 09:58 UTC**
 <!-- UPDATED:END -->
