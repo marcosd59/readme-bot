@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Magic is believing in yourself, if you can do that, you can make anything happen."*
+> *"Correct what you can. Learn from what you can't."*
 >
-> — **Johann Wolfgang von Goethe**
+> — **Toni Morrison**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-09 21:55 UTC**
+Last update: **2026-08-10 22:02 UTC**
 <!-- UPDATED:END -->
