@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Still your waters."*
+>
+> — **Josh Waitzkin**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-11 10:12 UTC**
+Last update: **2026-08-11 10:16 UTC**
 <!-- UPDATED:END -->
