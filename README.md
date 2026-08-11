@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Correct what you can. Learn from what you can't."*
->
-> — **Toni Morrison**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-10 22:08 UTC**
+Last update: **2026-08-11 10:12 UTC**
 <!-- UPDATED:END -->
