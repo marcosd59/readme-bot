@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Still your waters."*
+> *"Sadness is but a wall between two gardens."*
 >
-> — **Josh Waitzkin**
+> — **Kahlil Gibran**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-11 22:08 UTC**
+Last update: **2026-08-12 10:27 UTC**
 <!-- UPDATED:END -->
