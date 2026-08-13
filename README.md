@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Sadness is but a wall between two gardens."*
+> *"Keep your face to the sunshine and you cannot see the shadows."*
 >
-> — **Kahlil Gibran**
+> — **Helen Keller**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-12 22:10 UTC**
+Last update: **2026-08-13 10:29 UTC**
 <!-- UPDATED:END -->
