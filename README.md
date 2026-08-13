@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Keep your face to the sunshine and you cannot see the shadows."*
+>
+> — **Helen Keller**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-13 14:48 UTC**
+Last update: **2026-08-13 14:50 UTC**
 <!-- UPDATED:END -->
