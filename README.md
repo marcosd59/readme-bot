@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Keep your face to the sunshine and you cannot see the shadows."*
+> *"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."*
 >
-> — **Helen Keller**
+> — **Gary Keller**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-13 18:01 UTC**
+Last update: **2026-08-14 10:18 UTC**
 <!-- UPDATED:END -->
