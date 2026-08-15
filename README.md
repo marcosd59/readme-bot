@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."*
+> *"Man suffers only because he takes seriously what the gods made for fun."*
 >
-> — **Gary Keller**
+> — **Alan Watts**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-14 21:45 UTC**
+Last update: **2026-08-15 13:58 UTC**
 <!-- UPDATED:END -->
