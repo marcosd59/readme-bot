@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Man suffers only because he takes seriously what the gods made for fun."*
+> *"Motivation is what gets you started. Habit is what keeps you going."*
 >
-> — **Alan Watts**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-15 17:28 UTC**
+Last update: **2026-08-16 13:58 UTC**
 <!-- UPDATED:END -->
