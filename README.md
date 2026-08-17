@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Motivation is what gets you started. Habit is what keeps you going."*
+> *"Your happiness is what truly matters most. Do what you have to do in order to be happy."*
 >
-> — **Jim Rohn**
+> — **Brian Tracy**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-16 21:41 UTC**
+Last update: **2026-08-17 09:58 UTC**
 <!-- UPDATED:END -->
