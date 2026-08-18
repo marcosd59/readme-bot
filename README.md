@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Your happiness is what truly matters most. Do what you have to do in order to be happy."*
+> *"No one can compete with you on being you. Most of life is a search for who and what needs you the most."*
 >
-> — **Brian Tracy**
+> — **Naval Ravikant**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-17 21:45 UTC**
+Last update: **2026-08-18 09:49 UTC**
 <!-- UPDATED:END -->
