@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"No one can compete with you on being you. Most of life is a search for who and what needs you the most."*
+> *"Why change? Everyone has his own style. When you have found it, you should stick to it."*
 >
-> — **Naval Ravikant**
+> — **Audrey Hepburn**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-18 17:39 UTC**
+Last update: **2026-08-19 14:16 UTC**
 <!-- UPDATED:END -->
