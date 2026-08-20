@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Why change? Everyone has his own style. When you have found it, you should stick to it."*
+> *"No matter how tall the mountain is, it cannot block the sun."*
 >
-> — **Audrey Hepburn**
+> — **Chinese Proverb**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-19 21:47 UTC**
+Last update: **2026-08-20 09:50 UTC**
 <!-- UPDATED:END -->
