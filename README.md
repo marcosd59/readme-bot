@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"No matter how tall the mountain is, it cannot block the sun."*
+> *"Listen to the secret sound, the real sound, which is inside you."*
 >
-> — **Chinese Proverb**
+> — **Kabir**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-20 21:53 UTC**
+Last update: **2026-08-21 09:53 UTC**
 <!-- UPDATED:END -->
