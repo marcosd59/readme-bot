@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Listen to the secret sound, the real sound, which is inside you."*
+> *"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."*
 >
-> — **Kabir**
+> — **Nikola Tesla**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-21 17:38 UTC**
+Last update: **2026-08-22 17:28 UTC**
 <!-- UPDATED:END -->
