@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The biggest adventure you can ever take is to live the life of your dreams."*
+> *"The quicker you let go of old cheese, the sooner you find new cheese."*
 >
-> — **Oprah Winfrey**
+> — **Spencer Johnson**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-23 21:45 UTC**
+Last update: **2026-08-24 10:05 UTC**
 <!-- UPDATED:END -->
