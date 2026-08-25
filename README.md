@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The quicker you let go of old cheese, the sooner you find new cheese."*
+> *"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."*
 >
-> — **Spencer Johnson**
+> — **Denis Waitley**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-24 10:13 UTC**
+Last update: **2026-08-25 14:26 UTC**
 <!-- UPDATED:END -->
