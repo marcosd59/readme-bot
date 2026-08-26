@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."*
+> *"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."*
 >
-> — **Denis Waitley**
+> — **Charles Dickens**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-25 17:39 UTC**
+Last update: **2026-08-26 19:11 UTC**
 <!-- UPDATED:END -->
