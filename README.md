@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."*
+> *"Whatever you decide to do, make sure it makes you happy."*
 >
-> — **Richard Bach**
+> — **Paulo Coelho**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-27 19:56 UTC**
+Last update: **2026-08-28 01:25 UTC**
 <!-- UPDATED:END -->
