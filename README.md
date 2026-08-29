@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Whatever you decide to do, make sure it makes you happy."*
+> *"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."*
 >
-> — **Paulo Coelho**
+> — **Celestine Chua**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-28 23:18 UTC**
+Last update: **2026-08-29 00:56 UTC**
 <!-- UPDATED:END -->
