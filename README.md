@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Keep your eyes on the goal, and just keep taking the next step towards completing it."*
+> *"To a mind that is still, the entire universe surrenders."*
 >
-> — **John Carmack**
+> — **Zhuangzi**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-30 23:37 UTC**
+Last update: **2026-08-31 17:05 UTC**
 <!-- UPDATED:END -->
