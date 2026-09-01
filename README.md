@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"To a mind that is still, the entire universe surrenders."*
+> *"Stop wasting time defending your problems and work on addressing them instead."*
 >
-> — **Zhuangzi**
+> — **Celestine Chua**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-08-31 21:59 UTC**
+Last update: **2026-09-01 00:40 UTC**
 <!-- UPDATED:END -->
