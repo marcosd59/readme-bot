@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Stop wasting time defending your problems and work on addressing them instead."*
+> *"Force has no place where there is need of skill."*
 >
-> — **Celestine Chua**
+> — **Herodotus**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-01 23:28 UTC**
+Last update: **2026-09-02 19:42 UTC**
 <!-- UPDATED:END -->
