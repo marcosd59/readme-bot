@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Force has no place where there is need of skill."*
+> *"If you don't find the time, if you don't do the work, you don't get the results."*
 >
-> — **Herodotus**
+> — **Arnold Schwarzenegger**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-02 23:28 UTC**
+Last update: **2026-09-03 17:14 UTC**
 <!-- UPDATED:END -->
