@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"If you don't find the time, if you don't do the work, you don't get the results."*
+> *"Do good by stealth, and blush to find it fame."*
 >
-> — **Arnold Schwarzenegger**
+> — **Alexander Pope**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-03 23:24 UTC**
+Last update: **2026-09-04 13:33 UTC**
 <!-- UPDATED:END -->
