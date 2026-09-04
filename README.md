@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Do good by stealth, and blush to find it fame."*
+>
+> — **Alexander Pope**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-04 17:11 UTC**
+Last update: **2026-09-04 23:05 UTC**
 <!-- UPDATED:END -->
