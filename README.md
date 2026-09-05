@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Do good by stealth, and blush to find it fame."*
+> *"However difficult life may seem, there is always something you can do and succeed at."*
 >
-> — **Alexander Pope**
+> — **Stephen Hawking**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-04 23:05 UTC**
+Last update: **2026-09-05 16:16 UTC**
 <!-- UPDATED:END -->
