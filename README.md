@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"However difficult life may seem, there is always something you can do and succeed at."*
+> *"A man with outward courage dares to die: a man with inner courage dares to live."*
 >
-> — **Stephen Hawking**
+> — **Lao Tzu**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-05 23:09 UTC**
+Last update: **2026-09-06 12:53 UTC**
 <!-- UPDATED:END -->
