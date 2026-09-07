@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"A man with outward courage dares to die: a man with inner courage dares to live."*
+> *"The greatest treasures are those invisible to the eye but found by the heart."*
 >
-> — **Lao Tzu**
+> — **Judy Garland**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-06 22:58 UTC**
+Last update: **2026-09-07 15:04 UTC**
 <!-- UPDATED:END -->
