@@ -27,15 +27,15 @@ Auto-updated README con stats reales y quote diaria.
 ## 📈 Stats live
 
 <!-- STATS:START -->
-- 📦 **Repos públicos:** 21
+- 📦 **Repos públicos:** 6
 - 👥 **Followers:** 10
-- ⭐ **Stars totales:** 6
-- 🍴 **Forks totales:** 1
-- 💻 **Top lenguajes:** `JavaScript` (10) · `TypeScript` (2) · `Python` (2) · `C++` (2) · `Blade` (1)
+- ⭐ **Stars totales:** 5
+- 🍴 **Forks totales:** 0
+- 💻 **Top lenguajes:** `JavaScript` (3) · `TypeScript` (1) · `Python` (1) · `CSS` (1)
 <!-- STATS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-08 13:41 UTC**
+Last update: **2026-09-08 19:50 UTC**
 <!-- UPDATED:END -->
