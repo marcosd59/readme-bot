@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The greatest treasures are those invisible to the eye but found by the heart."*
+> *"High thoughts must have high language."*
 >
-> — **Judy Garland**
+> — **Aristophanes**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-07 18:24 UTC**
+Last update: **2026-09-08 13:39 UTC**
 <!-- UPDATED:END -->
