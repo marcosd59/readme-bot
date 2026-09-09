@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"High thoughts must have high language."*
+> *"We are all like the bright moon, we still have our darker side."*
 >
-> — **Aristophanes**
+> — **Kahlil Gibran**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-08 19:52 UTC**
+Last update: **2026-09-09 13:45 UTC**
 <!-- UPDATED:END -->
