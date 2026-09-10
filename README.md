@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"We are all like the bright moon, we still have our darker side."*
+> *"Simple words, repeated daily, can change your life."*
 >
-> — **Kahlil Gibran**
+> — **Maxime Lagace**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-09 23:24 UTC**
+Last update: **2026-09-10 17:12 UTC**
 <!-- UPDATED:END -->
