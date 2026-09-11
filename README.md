@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Simple words, repeated daily, can change your life."*
+> *"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."*
 >
-> — **Maxime Lagace**
+> — **Ming-Dao Deng**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-10 23:16 UTC**
+Last update: **2026-09-11 13:36 UTC**
 <!-- UPDATED:END -->
