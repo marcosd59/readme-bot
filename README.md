@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."*
+> *"He who leaves the game wins it."*
 >
-> — **Ming-Dao Deng**
+> — **Nicolas Chamfort**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-11 23:26 UTC**
+Last update: **2026-09-12 12:53 UTC**
 <!-- UPDATED:END -->
