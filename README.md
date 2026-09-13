@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"He who leaves the game wins it."*
+> *"Everyday is a second chance."*
 >
-> — **Nicolas Chamfort**
+> — **Unknown**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-12 23:12 UTC**
+Last update: **2026-09-13 13:48 UTC**
 <!-- UPDATED:END -->
