@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Everyday is a second chance."*
+> *"If you spend too much time thinking about a thing, you'll never get it done."*
 >
-> — **Unknown**
+> — **Bruce Lee**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-13 23:21 UTC**
+Last update: **2026-09-14 15:54 UTC**
 <!-- UPDATED:END -->
