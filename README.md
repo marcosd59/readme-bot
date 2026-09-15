@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"If you spend too much time thinking about a thing, you'll never get it done."*
+> *"Knowing yourself is the beginning of all wisdom."*
 >
-> — **Bruce Lee**
+> — **Aristotle**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-14 23:58 UTC**
+Last update: **2026-09-15 14:20 UTC**
 <!-- UPDATED:END -->
