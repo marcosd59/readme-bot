@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Knowing yourself is the beginning of all wisdom."*
+> *"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."*
 >
-> — **Aristotle**
+> — **Brian Tracy**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-15 23:37 UTC**
+Last update: **2026-09-16 17:44 UTC**
 <!-- UPDATED:END -->
