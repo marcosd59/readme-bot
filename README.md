@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."*
+> *"When things go wrong, don't go with them."*
 >
-> — **Brian Tracy**
+> — **Elvis Presley**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-16 23:41 UTC**
+Last update: **2026-09-17 17:44 UTC**
 <!-- UPDATED:END -->
