@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"When things go wrong, don't go with them."*
+> *"Till it has loved, no man or woman can become itself."*
 >
-> — **Elvis Presley**
+> — **Emily Dickinson**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-17 23:36 UTC**
+Last update: **2026-09-18 13:37 UTC**
 <!-- UPDATED:END -->
