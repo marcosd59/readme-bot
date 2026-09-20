@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Make your mind your own business."*
->
-> — **Jack Butcher**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-19 23:15 UTC**
+Last update: **2026-09-20 13:35 UTC**
 <!-- UPDATED:END -->
