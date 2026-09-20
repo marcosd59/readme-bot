@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."*
+>
+> — **Henry Ward Beecher**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-20 16:59 UTC**
+Last update: **2026-09-20 17:00 UTC**
 <!-- UPDATED:END -->
