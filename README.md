@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."*
+> *"The smallest act of kindness is worth more than the greatest intention."*
 >
-> — **Henry Ward Beecher**
+> — **Kahlil Gibran**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-20 23:22 UTC**
+Last update: **2026-09-21 18:53 UTC**
 <!-- UPDATED:END -->
