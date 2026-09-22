@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The smallest act of kindness is worth more than the greatest intention."*
+> *"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."*
 >
-> — **Kahlil Gibran**
+> — **Samuel Butler**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-21 21:03 UTC**
+Last update: **2026-09-22 00:11 UTC**
 <!-- UPDATED:END -->
