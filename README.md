@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."*
+> *"When we strive to become better than we are, everything around us becomes better, too."*
 >
-> — **Samuel Butler**
+> — **Paulo Coelho**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-22 23:41 UTC**
+Last update: **2026-09-23 14:15 UTC**
 <!-- UPDATED:END -->
