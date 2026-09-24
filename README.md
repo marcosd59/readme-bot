@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"When we strive to become better than we are, everything around us becomes better, too."*
+> *"You are what you believe in. You become that which you believe you can become."*
 >
-> — **Paulo Coelho**
+> — **Bhagavad Gita**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-23 23:52 UTC**
+Last update: **2026-09-24 17:57 UTC**
 <!-- UPDATED:END -->
