@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"You are what you believe in. You become that which you believe you can become."*
+> *"Give so much away people insist on paying you."*
 >
-> — **Bhagavad Gita**
+> — **Jack Butcher**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-24 23:59 UTC**
+Last update: **2026-09-25 18:04 UTC**
 <!-- UPDATED:END -->
