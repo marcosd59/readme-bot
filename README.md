@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Give so much away people insist on paying you."*
+> *"If you get up one more time than you fall, you will make it through."*
 >
-> — **Jack Butcher**
+> — **Chinese Proverb**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-25 23:58 UTC**
+Last update: **2026-09-26 00:01 UTC**
 <!-- UPDATED:END -->
