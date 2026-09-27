@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"If you get up one more time than you fall, you will make it through."*
+> *"Don't let your learning lead to knowledge. Let your learning lead to action."*
 >
-> — **Chinese Proverb**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-26 23:41 UTC**
+Last update: **2026-09-27 17:56 UTC**
 <!-- UPDATED:END -->
