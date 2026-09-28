@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Don't let your learning lead to knowledge. Let your learning lead to action."*
+> *"One mistake does not have to rule a person's entire life."*
 >
-> — **Jim Rohn**
+> — **Joyce Meyer**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-27 20:04 UTC**
+Last update: **2026-09-28 17:40 UTC**
 <!-- UPDATED:END -->
