@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"One mistake does not have to rule a person's entire life."*
->
-> — **Joyce Meyer**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-28 17:40 UTC**
+Last update: **2026-09-28 17:43 UTC**
 <!-- UPDATED:END -->
