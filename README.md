@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Silence is a source of great strength."*
+>
+> — **Lao Tzu**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-29 18:55 UTC**
+Last update: **2026-09-29 18:57 UTC**
 <!-- UPDATED:END -->
