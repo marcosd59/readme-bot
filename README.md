@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"One mistake does not have to rule a person's entire life."*
+> *"Silence is a source of great strength."*
 >
-> — **Joyce Meyer**
+> — **Lao Tzu**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-28 22:29 UTC**
+Last update: **2026-09-29 01:04 UTC**
 <!-- UPDATED:END -->
