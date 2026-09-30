@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"If you've made a mistake, it's better just to laugh at it."*
+>
+> — **Zen Proverb**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-29 19:01 UTC**
+Last update: **2026-09-30 00:35 UTC**
 <!-- UPDATED:END -->
