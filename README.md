@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"If you've made a mistake, it's better just to laugh at it."*
+> *"When you stop questioning, you stop learning."*
 >
-> — **Zen Proverb**
+> — **Lolly Daskal**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-09-30 21:29 UTC**
+Last update: **2026-10-01 00:37 UTC**
 <!-- UPDATED:END -->
