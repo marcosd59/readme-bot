@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"When you stop questioning, you stop learning."*
+> *"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."*
 >
-> — **Lolly Daskal**
+> — **Nelson Mandela**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-01 21:50 UTC**
+Last update: **2026-10-02 00:56 UTC**
 <!-- UPDATED:END -->
