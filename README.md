@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."*
+> *"We are born from a quiet sleep, and we die to a calm awakening"*
 >
-> — **Nelson Mandela**
+> — **Zhuangzi**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-02 21:16 UTC**
+Last update: **2026-10-03 00:33 UTC**
 <!-- UPDATED:END -->
