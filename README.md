@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"We are born from a quiet sleep, and we die to a calm awakening"*
+> *"Would you rather learn to deal with the truth now than be forced to do so later on?"*
 >
-> — **Zhuangzi**
+> — **Celestine Chua**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-03 17:41 UTC**
+Last update: **2026-10-04 14:48 UTC**
 <!-- UPDATED:END -->
