@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Would you rather learn to deal with the truth now than be forced to do so later on?"*
+> *"Engage in those actions and thoughts that nurture the good qualities you want to have."*
 >
-> — **Celestine Chua**
+> — **Paramahansa Yogananda**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-04 20:09 UTC**
+Last update: **2026-10-05 18:31 UTC**
 <!-- UPDATED:END -->
