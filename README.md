@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Engage in those actions and thoughts that nurture the good qualities you want to have."*
+> *"A gentleman is one who puts more into the world than he takes out."*
 >
-> — **Paramahansa Yogananda**
+> — **George Bernard Shaw**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-05 23:06 UTC**
+Last update: **2026-10-06 01:47 UTC**
 <!-- UPDATED:END -->
