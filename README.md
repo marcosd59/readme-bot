@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"A gentleman is one who puts more into the world than he takes out."*
+> *"Be happy now, without reason - or you never will be at all."*
 >
-> — **George Bernard Shaw**
+> — **Dan Millman**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-06 21:45 UTC**
+Last update: **2026-10-07 00:50 UTC**
 <!-- UPDATED:END -->
