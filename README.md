@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Be happy now, without reason - or you never will be at all."*
+> *"Success is not how high you have climbed, but how you make a positive difference to the world."*
 >
-> — **Dan Millman**
+> — **Roy T. Bennett**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-07 21:59 UTC**
+Last update: **2026-10-08 01:05 UTC**
 <!-- UPDATED:END -->
