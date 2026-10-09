@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Success is not how high you have climbed, but how you make a positive difference to the world."*
+> *"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool."*
 >
-> — **Roy T. Bennett**
+> — **Ray Bradbury**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-08 21:58 UTC**
+Last update: **2026-10-09 01:17 UTC**
 <!-- UPDATED:END -->
