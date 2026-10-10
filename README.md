@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool."*
+> *"Ability is a poor man's wealth."*
 >
-> — **Ray Bradbury**
+> — **John Wooden**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-09 21:41 UTC**
+Last update: **2026-10-10 15:24 UTC**
 <!-- UPDATED:END -->
