@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Ability is a poor man's wealth."*
+> *"You only live once, but if you do it right, once is enough."*
 >
-> — **John Wooden**
+> — **Mae West**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-10 20:34 UTC**
+Last update: **2026-10-11 00:16 UTC**
 <!-- UPDATED:END -->
