@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"You only live once, but if you do it right, once is enough."*
+> *"Those who know, do. Those that understand, teach."*
 >
-> — **Mae West**
+> — **Aristotle**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-11 20:53 UTC**
+Last update: **2026-10-12 00:38 UTC**
 <!-- UPDATED:END -->
