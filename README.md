@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Those who know, do. Those that understand, teach."*
+> *"Life can be the scariest and most beautiful thing simultaneously."*
 >
-> — **Aristotle**
+> — **Maxime Lagace**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-12 23:34 UTC**
+Last update: **2026-10-13 02:37 UTC**
 <!-- UPDATED:END -->
