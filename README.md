@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Genius is one percent inspiration and ninety-nine percent perspiration."*
->
-> — **Thomas Edison**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-14 14:41 UTC**
+Last update: **2026-10-14 23:59 UTC**
 <!-- UPDATED:END -->
