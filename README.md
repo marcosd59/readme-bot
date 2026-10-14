@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Life can be the scariest and most beautiful thing simultaneously."*
+> *"Genius is one percent inspiration and ninety-nine percent perspiration."*
 >
-> — **Maxime Lagace**
+> — **Thomas Edison**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-13 21:53 UTC**
+Last update: **2026-10-14 14:31 UTC**
 <!-- UPDATED:END -->
