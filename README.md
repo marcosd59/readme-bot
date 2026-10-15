@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"Everything eaten is killed. Every meal is a sacrifice."*
+>
+> — **Adi Da Samraj**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-14 23:59 UTC**
+Last update: **2026-10-15 14:11 UTC**
 <!-- UPDATED:END -->
