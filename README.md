@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Everything eaten is killed. Every meal is a sacrifice."*
+> *"As we first succeed, we will find ourselves in new situations, facing new problems."*
 >
-> — **Adi Da Samraj**
+> — **Ryan Holiday**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-15 23:43 UTC**
+Last update: **2026-10-16 13:59 UTC**
 <!-- UPDATED:END -->
