@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"You've got to get up every morning with determination if you're going to go to bed with satisfaction."*
+> *"The greater the impact you want to make, the greater your influence needs to be."*
 >
-> — **George Lorimer**
+> — **Lolly Daskal**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-17 23:16 UTC**
+Last update: **2026-10-18 13:20 UTC**
 <!-- UPDATED:END -->
