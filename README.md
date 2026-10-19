@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The greater the impact you want to make, the greater your influence needs to be."*
+> *"The secret of change is to focus all your energy not on fighting the old, but on building the new."*
 >
-> — **Lolly Daskal**
+> — **Colin R. Davis**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-18 23:23 UTC**
+Last update: **2026-10-19 16:29 UTC**
 <!-- UPDATED:END -->
