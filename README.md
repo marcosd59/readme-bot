@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The secret of change is to focus all your energy not on fighting the old, but on building the new."*
+> *"Success is about doing the right thing, not about doing everything right."*
 >
-> — **Colin R. Davis**
+> — **Gary Keller**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-19 19:30 UTC**
+Last update: **2026-10-20 18:06 UTC**
 <!-- UPDATED:END -->
