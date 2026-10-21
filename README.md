@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Success is about doing the right thing, not about doing everything right."*
+> *"Each day your life grows a day shorter. Make every move count."*
 >
-> — **Gary Keller**
+> — **Ming-Dao Deng**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-20 23:59 UTC**
+Last update: **2026-10-21 00:03 UTC**
 <!-- UPDATED:END -->
