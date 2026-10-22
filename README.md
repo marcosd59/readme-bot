@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Each day your life grows a day shorter. Make every move count."*
+> *"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."*
 >
-> — **Ming-Dao Deng**
+> — **Mark Twain**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-21 20:31 UTC**
+Last update: **2026-10-22 18:09 UTC**
 <!-- UPDATED:END -->
