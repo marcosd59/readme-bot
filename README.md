@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."*
+> *"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."*
 >
-> — **Mark Twain**
+> — **Eleanor Roosevelt**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-22 18:12 UTC**
+Last update: **2026-10-23 00:01 UTC**
 <!-- UPDATED:END -->
