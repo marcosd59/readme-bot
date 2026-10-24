@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."*
+> *"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."*
 >
-> — **Eleanor Roosevelt**
+> — **Henry Ward Beecher**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-23 20:25 UTC**
+Last update: **2026-10-24 13:21 UTC**
 <!-- UPDATED:END -->
