@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."*
+> *"The wiser you get, the less you care to look like a fool."*
 >
-> — **Henry Ward Beecher**
+> — **Maxime Lagace**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-24 17:05 UTC**
+Last update: **2026-10-25 13:43 UTC**
 <!-- UPDATED:END -->
