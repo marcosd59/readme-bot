@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The wiser you get, the less you care to look like a fool."*
+> *"Loving thoughts and actions are clearly beneficial for our physical and mental health."*
 >
-> — **Maxime Lagace**
+> — **Dalai Lama**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-25 23:21 UTC**
+Last update: **2026-10-26 16:09 UTC**
 <!-- UPDATED:END -->
