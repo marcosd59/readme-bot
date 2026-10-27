@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Loving thoughts and actions are clearly beneficial for our physical and mental health."*
+> *"Still your waters."*
 >
-> — **Dalai Lama**
+> — **Josh Waitzkin**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-26 21:41 UTC**
+Last update: **2026-10-27 15:23 UTC**
 <!-- UPDATED:END -->
