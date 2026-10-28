@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Still your waters."*
+> *"What we dwell on is who we become."*
 >
-> — **Josh Waitzkin**
+> — **Oprah Winfrey**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-27 21:14 UTC**
+Last update: **2026-10-28 00:34 UTC**
 <!-- UPDATED:END -->
