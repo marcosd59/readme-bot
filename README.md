@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"What we dwell on is who we become."*
+> *"The more reasons you have for achieving your goal, the more determined you will become."*
 >
-> — **Oprah Winfrey**
+> — **Brian Tracy**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-28 21:36 UTC**
+Last update: **2026-10-29 01:04 UTC**
 <!-- UPDATED:END -->
