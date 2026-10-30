@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The more reasons you have for achieving your goal, the more determined you will become."*
+> *"Distant water does not put out a nearby fire."*
 >
-> — **Brian Tracy**
+> — **Chinese Proverb**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-29 16:13 UTC**
+Last update: **2026-10-30 21:25 UTC**
 <!-- UPDATED:END -->
