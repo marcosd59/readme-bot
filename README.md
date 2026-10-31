@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Distant water does not put out a nearby fire."*
+> *"When you believe in a thing, believe in it all the way, implicitly and unquestionable."*
 >
-> — **Chinese Proverb**
+> — **Walt Disney**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-30 21:25 UTC**
+Last update: **2026-10-31 00:53 UTC**
 <!-- UPDATED:END -->
