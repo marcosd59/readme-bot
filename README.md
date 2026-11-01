@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"When you believe in a thing, believe in it all the way, implicitly and unquestionable."*
+> *"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."*
 >
-> — **Walt Disney**
+> — **Kamal Ravikant**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-10-31 17:55 UTC**
+Last update: **2026-11-01 00:12 UTC**
 <!-- UPDATED:END -->
