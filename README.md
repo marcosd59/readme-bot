@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."*
+> *"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."*
 >
-> — **Kamal Ravikant**
+> — **Dalai Lama**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-01 21:04 UTC**
+Last update: **2026-11-02 19:31 UTC**
 <!-- UPDATED:END -->
