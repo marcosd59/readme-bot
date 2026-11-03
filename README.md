@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."*
+> *"When the time is gone, you can never get it back."*
 >
-> — **Dalai Lama**
+> — **Stephen King**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-02 23:53 UTC**
+Last update: **2026-11-03 02:57 UTC**
 <!-- UPDATED:END -->
