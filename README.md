@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"When the time is gone, you can never get it back."*
+> *"What the eye doesn't see and the mind doesn't know, doesn't exist."*
 >
-> — **Stephen King**
+> — **D. H. Lawrence**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-03 22:15 UTC**
+Last update: **2026-11-04 01:29 UTC**
 <!-- UPDATED:END -->
