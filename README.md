@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"What the eye doesn't see and the mind doesn't know, doesn't exist."*
+> *"Debt is the slavery of the free."*
 >
-> — **D. H. Lawrence**
+> — **Publilius Syrus**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-04 22:32 UTC**
+Last update: **2026-11-05 01:31 UTC**
 <!-- UPDATED:END -->
