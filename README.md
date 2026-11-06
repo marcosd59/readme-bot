@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Debt is the slavery of the free."*
+> *"Your mind is infinite, it's your doubts that are limiting."*
 >
-> — **Publilius Syrus**
+> — **Robert Kiyosaki**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-05 22:42 UTC**
+Last update: **2026-11-06 01:39 UTC**
 <!-- UPDATED:END -->
