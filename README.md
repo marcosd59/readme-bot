@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Your mind is infinite, it's your doubts that are limiting."*
+> *"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."*
 >
-> — **Robert Kiyosaki**
+> — **Kamal Ravikant**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-06 22:03 UTC**
+Last update: **2026-11-07 00:59 UTC**
 <!-- UPDATED:END -->
