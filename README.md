@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"People spend too much time doing and not enough time thinking about what they should be doing."*
+> *"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."*
 >
-> — **Naval Ravikant**
+> — **Dale Carnegie**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-08 18:35 UTC**
+Last update: **2026-11-09 01:01 UTC**
 <!-- UPDATED:END -->
