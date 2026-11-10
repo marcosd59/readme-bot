@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."*
->
-> — **Colin Powell**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-10 17:04 UTC**
+Last update: **2026-11-10 17:08 UTC**
 <!-- UPDATED:END -->
