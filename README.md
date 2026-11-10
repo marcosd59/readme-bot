@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."*
+> *"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."*
 >
-> — **Dale Carnegie**
+> — **Colin Powell**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-09 01:10 UTC**
+Last update: **2026-11-10 00:37 UTC**
 <!-- UPDATED:END -->
