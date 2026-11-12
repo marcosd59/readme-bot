@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."*
+> *"In the practice of tolerance, one's enemy is the best teacher."*
 >
-> — **Roy T. Bennett**
+> — **Dalai Lama**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-11 23:27 UTC**
+Last update: **2026-11-12 02:19 UTC**
 <!-- UPDATED:END -->
