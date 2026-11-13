@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"In the practice of tolerance, one's enemy is the best teacher."*
+> *"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."*
 >
-> — **Dalai Lama**
+> — **John Tukey**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-12 22:43 UTC**
+Last update: **2026-11-13 17:14 UTC**
 <!-- UPDATED:END -->
