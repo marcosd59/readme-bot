@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."*
->
-> — **John Tukey**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-13 17:14 UTC**
+Last update: **2026-11-13 17:17 UTC**
 <!-- UPDATED:END -->
