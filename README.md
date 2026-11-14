@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."*
+> *"There is nothing more frightful than ignorance in action."*
 >
-> — **John Tukey**
+> — **Johann Wolfgang von Goethe**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-13 22:33 UTC**
+Last update: **2026-11-14 15:50 UTC**
 <!-- UPDATED:END -->
