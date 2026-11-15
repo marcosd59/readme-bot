@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The weak can never forgive. Forgiveness is the attribute of the strong."*
->
-> — **Mahatma Gandhi**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-15 16:23 UTC**
+Last update: **2026-11-15 16:27 UTC**
 <!-- UPDATED:END -->
