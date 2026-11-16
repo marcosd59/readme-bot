@@ -17,7 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> Quote unavailable today.
+> *"I dream my painting and I paint my dream."*
+>
+> — **Vincent van Gogh**
 <!-- QUOTE:END -->
 
 ---
@@ -35,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-15 16:27 UTC**
+Last update: **2026-11-16 01:10 UTC**
 <!-- UPDATED:END -->
