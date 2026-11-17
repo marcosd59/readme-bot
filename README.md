@@ -17,9 +17,7 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"If you can't argue both sides, you can't argue."*
->
-> — **Jack Butcher**
+> Quote unavailable today.
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +35,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-17 04:07 UTC**
+Last update: **2026-11-17 18:36 UTC**
 <!-- UPDATED:END -->
