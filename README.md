@@ -29,13 +29,13 @@ Auto-updated README con stats reales y quote diaria.
 <!-- STATS:START -->
 - 📦 **Repos públicos:** 6
 - 👥 **Followers:** 10
-- ⭐ **Stars totales:** 5
+- ⭐ **Stars totales:** 6
 - 🍴 **Forks totales:** 0
-- 💻 **Top lenguajes:** `JavaScript` (3) · `TypeScript` (1) · `Python` (1) · `CSS` (1)
+- 💻 **Top lenguajes:** `JavaScript` (3) · `CSS` (1) · `TypeScript` (1) · `Python` (1)
 <!-- STATS:END -->
 
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-18 03:01 UTC**
+Last update: **2026-11-18 23:20 UTC**
 <!-- UPDATED:END -->
