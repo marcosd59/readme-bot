@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"If you can't argue both sides, you can't argue."*
+> *"Silence is a source of great strength."*
 >
-> — **Jack Butcher**
+> — **Lao Tzu**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-17 23:51 UTC**
+Last update: **2026-11-18 02:58 UTC**
 <!-- UPDATED:END -->
