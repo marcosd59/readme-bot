@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Silence is a source of great strength."*
+> *"You are never too old to become younger."*
 >
-> — **Lao Tzu**
+> — **Mae West**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-18 23:22 UTC**
+Last update: **2026-11-19 02:40 UTC**
 <!-- UPDATED:END -->
