@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"You are never too old to become younger."*
+> *"Never waste a minute of your precious life thinking about people you don't like."*
 >
-> — **Mae West**
+> — **Celestine Chua**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-19 21:52 UTC**
+Last update: **2026-11-20 02:25 UTC**
 <!-- UPDATED:END -->
