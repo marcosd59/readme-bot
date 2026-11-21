@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Never waste a minute of your precious life thinking about people you don't like."*
+> *"To avoid criticism, do nothing, say nothing, and be nothing."*
 >
-> — **Celestine Chua**
+> — **Elbert Hubbard**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-20 23:04 UTC**
+Last update: **2026-11-21 02:34 UTC**
 <!-- UPDATED:END -->
