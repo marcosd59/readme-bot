@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"To avoid criticism, do nothing, say nothing, and be nothing."*
+> *"Peace is not the absence of conflict, but the ability to cope with it."*
 >
-> — **Elbert Hubbard**
+> — **Unknown**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-21 22:09 UTC**
+Last update: **2026-11-22 01:26 UTC**
 <!-- UPDATED:END -->
