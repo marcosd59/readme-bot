@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Peace is not the absence of conflict, but the ability to cope with it."*
+> *"Have a vision. Be demanding."*
 >
-> — **Unknown**
+> — **Colin Powell**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-22 20:38 UTC**
+Last update: **2026-11-23 01:50 UTC**
 <!-- UPDATED:END -->
