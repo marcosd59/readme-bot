@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Have a vision. Be demanding."*
+> *"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."*
 >
-> — **Colin Powell**
+> — **Robert Kiyosaki**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-23 21:36 UTC**
+Last update: **2026-11-24 03:14 UTC**
 <!-- UPDATED:END -->
