@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."*
+> *"We have to live life with a sense of urgency so not a minute is wasted."*
 >
-> — **Robert Kiyosaki**
+> — **Les Brown**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-24 23:16 UTC**
+Last update: **2026-11-25 01:19 UTC**
 <!-- UPDATED:END -->
