@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"We have to live life with a sense of urgency so not a minute is wasted."*
+> *"Keep your eyes on the stars, but remember to keep your feet on the ground."*
 >
-> — **Les Brown**
+> — **Theodore Roosevelt**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-25 22:49 UTC**
+Last update: **2026-11-26 00:54 UTC**
 <!-- UPDATED:END -->
