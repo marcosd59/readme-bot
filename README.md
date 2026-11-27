@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"Keep your eyes on the stars, but remember to keep your feet on the ground."*
+> *"It takes half your life before you discover life is a do-it-yourself project."*
 >
-> — **Theodore Roosevelt**
+> — **Napoleon Hill**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-26 22:44 UTC**
+Last update: **2026-11-27 19:00 UTC**
 <!-- UPDATED:END -->
