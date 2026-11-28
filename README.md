@@ -17,9 +17,9 @@ Auto-updated README con stats reales y quote diaria.
 ## 💬 Quote del día
 
 <!-- QUOTE:START -->
-> *"It takes half your life before you discover life is a do-it-yourself project."*
+> *"High thoughts must have high language."*
 >
-> — **Napoleon Hill**
+> — **Aristophanes**
 <!-- QUOTE:END -->
 
 ---
@@ -37,5 +37,5 @@ Auto-updated README con stats reales y quote diaria.
 ---
 
 <!-- UPDATED:START -->
-Last update: **2026-11-27 19:04 UTC**
+Last update: **2026-11-28 00:26 UTC**
 <!-- UPDATED:END -->
